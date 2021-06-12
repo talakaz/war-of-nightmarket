@@ -1,5 +1,5 @@
 # war-of-nightmarket
-A hologram board game made with Unity and Vuforia.
+A hologram board game made with Unity.
 
 ● Use this app, your cell phone became a digital game hoster, put your card on the detect zone, the host will project digital contents to hologram device and guide you to play the game.
 
